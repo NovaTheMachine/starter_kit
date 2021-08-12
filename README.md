@@ -1,1 +1,1 @@
-A full stack Apps on Blockchain
+A full stack App on Blockchain
